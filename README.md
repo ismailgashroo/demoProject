@@ -1,2 +1,2 @@
-this is my second repo in github
+these are the pdf notes on git and github
 Author:  Mr. Ismail
